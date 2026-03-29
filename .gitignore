@@ -4,6 +4,7 @@
 
 # Logs
 *.log
+assistant.log
 
 # Python
 __pycache__/
