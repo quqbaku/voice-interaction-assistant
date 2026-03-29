@@ -13,3 +13,4 @@ venv/
 # IDE
 .vscode/
 .idea/
+models/sense_voice/*.onnx
