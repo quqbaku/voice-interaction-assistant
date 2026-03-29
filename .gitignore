@@ -13,4 +13,6 @@ venv/
 # IDE
 .vscode/
 .idea/
+
+# Large model files
 models/sense_voice/*.onnx
